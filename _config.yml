@@ -1,0 +1,14 @@
+layout_spectrum: 0.0493905795738101
+typography_spectrum: 0.28251952212303877
+color:
+  brandStrength: 0.7857082046102732
+  lightness: 0.3490898774471134
+  saturation: 0.04413188016042113
+  rhythmicContrast: 0.7314260494895279
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: revolware
